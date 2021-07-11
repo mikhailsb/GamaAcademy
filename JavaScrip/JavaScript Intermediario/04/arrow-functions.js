@@ -15,3 +15,5 @@ const sayHello = name => `Hello ${name}`;
 console.log(soma2(6,3));
 
 console.log(sayHello("Mikhail"));
+
+sava.schultz
